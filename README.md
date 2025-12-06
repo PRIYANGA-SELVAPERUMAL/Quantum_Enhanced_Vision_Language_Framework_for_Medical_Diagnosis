@@ -85,17 +85,27 @@ To develop an explainable, quantum-enhanced, and multimodal framework capable of
 
 ## 🧪 Model Performance
 
-| Metric | Score |
-|--------|------|
-| AUROC (Mean) | **0.902** |
-| F1-Weighted | **0.71** |
-| Training Loss | **0.0506** |
-| q_scale_mean | **1.07** |
-| q_scale_variance | **0.1334** |
+| Metric | Value | Metric Type |
+|--------|------|-------------|
+| AUROC_anatomy | **0.94** | Discrimination |
+| AUROC_pathology | **0.865** | Discrimination |
+| AUROC_mean | **0.902** | Global Discriminative Index |
+| mAP_anatomy | **0.67** | Ranking Precision |
+| mAP_pathology | **0.64** | Ranking Precision |
+| mAP_mean | **0.655** | Retrieval Consistency |
+| F1_macro | **0.69** | Harmonic balance (per class) |
+| F1_micro | **0.675** | Harmonic balance (global) |
+| F1_weighted | **0.71** | Weighted Harmonic Mean |
+| Overall Diagnostic Score | **0.755** | Composite Index |
+| q_scale_mean | **1.10** | Quantum Scaling Mean |
+| q_scale_std | **0.115** | Quantum Scaling Variance |
+| q_scale_gt1_frac | **0.78** | Fraction of amplified channels |
+| q_scale_lt1_frac | **0.22** | Fraction of suppressed channels |
 
-✨ Demonstrates strong diagnostic reliability with enhanced clarity & explainability.
+✨ Demonstrates strong diagnostic realism and explainability with quantum-enhanced feature stability.
 
 ---
+
 
 ## 🌐 Website Overview
 
