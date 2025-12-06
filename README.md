@@ -122,15 +122,15 @@ To develop an explainable, quantum-enhanced, and multimodal framework capable of
 
 The web UI provides an end-to-end clinical experience enabling:
 
-✔ Patient details + symptom intake form  
-✔ Medical image upload (X-Ray / CT / MRI / Ultrasound)  
-✔ AI-driven anomaly detection using BioMedCLIP  
-✔ Dynamic question-answering using BioMistral (voice + text)  
-✔ Integrated case file with merged clinical + visual findings  
-✔ Detailed radiology-style report via LLaVA-Med  
-✔ Patient-friendly summary for better understanding  
-✔ XAI visualizations: heatmaps with evidence-based explanation  
-✔ One-click PDF download for clinical use  
+- Patient details submission  
+- Medical image upload (X-Ray / CT / MRI / Ultrasound)  
+- AI-driven anomaly detection using BioMedCLIP ViT-B/16  
+- Dynamic clinical question-answering using BioMistral (voice + text)  
+- Merged case file with combined visual + patient information  
+- Detailed radiology-style report generation using LLaVA-Med  
+- Patient-friendly summary for easy understanding  
+- XAI visualizations: heatmaps with evidence-based explanation  
+- One-click PDF export for clinical documentation  
 
 
 ---
