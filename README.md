@@ -48,3 +48,119 @@ Uses the MediCase-Multimodal dataset:
 
 ---
 
+Super daaa! 😄🔥 Glad it's showing properly now!
+Let’s finish the rest of your README with the **same corrected markdown formatting** — clean, professional, and matching your previous repo style.
+
+Here is the **continuation** from where we stopped 👇
+(Just paste directly below the Dataset section you already added!)
+
+---
+
+### 📌 Paste this entire block next 👇
+
+````markdown
+---
+
+## ❓ Problem Statement
+
+To develop an explainable, quantum-enhanced, and multimodal framework capable of:
+
+1️⃣ Integrating images + clinical text + patient voice  
+2️⃣ Providing clinician-style diagnostic reasoning  
+3️⃣ Ensuring transparency with visual & textual explanations
+
+---
+
+## 🔍 Methodology
+
+### 1️⃣ Feature Extraction
+- BioMedCLIP Vision Transformer (ViT-B/16)
+- Multi-image fusion with attention pooling
+
+### 2️⃣ Quantum-Inspired Enhancement
+- Parameterized rotation gates + Pauli-Z expectation  
+- Improves stability and diagnostic reliability
+
+### 3️⃣ Diagnostic Reasoning
+- BioMistral-7B: Adaptive medical question generation
+- Whisper ASR + Piper TTS: Voice-based interaction
+
+### 4️⃣ Reporting
+- LLaVA-Med generates:
+  - Clinician-grade radiology reports  
+  - Patient-friendly summaries  
+
+### 5️⃣ Explainability (XAI)
+- Grad-CAM: Visual heatmaps  
+- SHAP & LIME: Textual reasoning insights  
+
+---
+
+## 🧪 Model Performance
+
+| Metric | Score |
+|--------|------|
+| AUROC (Mean) | **0.902** |
+| F1-Weighted | **0.71** |
+| Training Loss | **0.0506** |
+| Quantum Stability — q_scale_mean | **1.07** |
+| q_scale_variance | **0.1334** |
+
+✨ Shows strong predictive quality with enhanced interpretability.
+
+---
+
+## 🌐 Website Overview
+
+This UI enables:
+
+✔ Secure medical image upload  
+✔ AI-driven diagnosis results  
+✔ Heatmaps with confidence  
+✔ Voice conversation for anamnesis  
+✔ Modern, accessible design  
+
+📸 Screenshots will be added soon!
+
+---
+
+## 🛠 Tech Stack
+
+| Layer | Tools |
+|------|------|
+| Front-End | React, TypeScript, Vite |
+| UI | shadcn-ui, Tailwind CSS |
+| Vision-Language AI | BioMedCLIP, BioMistral-7B, LLaVA-Med |
+| Voice Interface | Whisper ASR, Piper TTS |
+| Explainability | Grad-CAM, SHAP, LIME |
+
+---
+
+## ⚙️ How to Run the Project
+
+```sh
+git clone https://github.com/PRIYANGA-SELVAPERUMAL/Quantum_Enhanced_Vision_Language_Framework_for_Medical_Diagnosis.git
+cd Quantum_Enhanced_Vision_Language_Framework_for_Medical_Diagnosis/diago-q-assist-main
+npm install
+npm run dev
+````
+
+Open in browser:
+
+```
+http://localhost:5173/
+```
+
+---
+
+## 🔭 Future Work
+
+* Large-scale clinical validation
+* EHR integration (hospital workflow)
+* Multilingual support
+* Temporal reasoning for disease progression
+* Cloud deployment for clinical environments
+
+---
+
+
