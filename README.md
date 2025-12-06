@@ -82,7 +82,16 @@ To develop an explainable, quantum-enhanced, and multimodal framework capable of
 - **SHAP & LIME** → Textual reasoning transparency  
 
 ---
+## 🧠 Model Architecture
 
+- **BioMedCLIP ViT-B/16** for medical image understanding  
+- **Attention Fusion** for combining multiple imaging views  
+- **BioMistral-7B** for clinical question reasoning  
+- **Quantum-Inspired Scaling Layer** to enhance diagnostic stability  
+- **LLaVA-Med** for structured report + patient-friendly summaries  
+- **Whisper ASR + Piper TTS** enabling voice interaction  
+- **Explainability Module** (Grad-CAM, SHAP, LIME)
+---
 ## 🧪 Model Performance
 
 | Metric | Value | Metric Type |
