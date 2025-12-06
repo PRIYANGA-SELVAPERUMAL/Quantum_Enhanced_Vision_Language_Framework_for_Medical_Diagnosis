@@ -64,6 +64,8 @@ To develop an explainable, quantum-enhanced, and multimodal framework capable of
 
 ## 🔍 Methodology
 
+<img width="2056" height="1365" alt="FYP - Workflow Diagram 1" src="https://github.com/user-attachments/assets/9eef1b92-95e7-4f34-902d-8cf60e4d13a7" />
+
 ### 1️⃣ Feature Extraction
 - BioMedCLIP Vision Transformer (ViT-B/16)
 - Multi-image fusion with attention pooling
@@ -85,6 +87,9 @@ To develop an explainable, quantum-enhanced, and multimodal framework capable of
 
 ---
 ## 🧠 Model Architecture
+
+<img width="7334" height="2091" alt="FYP drawio" src="https://github.com/user-attachments/assets/bcd833c2-2645-43b5-a2f0-ae77dbf2a89e" />
+
 
 - **BioMedCLIP ViT-B/16** for medical image understanding  
 - **Attention Fusion** for combining multiple imaging views  
