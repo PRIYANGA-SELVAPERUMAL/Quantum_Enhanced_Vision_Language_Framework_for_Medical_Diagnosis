@@ -11,6 +11,7 @@ A multimodal medical diagnosis system that integrates vision, language, and voic
 - [Dataset](#dataset)
 - [Problem Statement](#problem-statement)
 - [Methodology](#methodology)
+- [Model Architecture](#model-architecture)
 - [Model Performance](#model-performance)
 - [Website Overview](#website-overview)
 - [Tech Stack](#tech-stack)
@@ -18,6 +19,7 @@ A multimodal medical diagnosis system that integrates vision, language, and voic
 - [Future Work](#future-work)
 
 ---
+
 
 ## 📖 About the Project
 
