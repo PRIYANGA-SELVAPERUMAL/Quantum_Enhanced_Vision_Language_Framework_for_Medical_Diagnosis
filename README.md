@@ -1,3 +1,40 @@
+Aaaah okay da — **this explains everything clearly** 😄🔥
+You pasted the *instruction text + my example code fences* **inside** your README — that’s why it is breaking!
+
+This part right here 👇 **must be completely removed** from your README:
+
+```
+Super daaa! 😄🔥 Glad it's showing properly now!
+Let’s finish the rest of your README with the same corrected markdown formatting — clean, professional, and matching your previous repo style.
+
+Here is the continuation from where we stopped 👇
+(Just paste directly below the Dataset section you already added!)
+
+---
+
+### 📌 Paste this entire block next 👇
+```
+
+And also remove:
+
+* The starting and ending **`markdown** and **`**
+* Any text where I was talking to you instead of README content
+
+---
+
+### 🎯 So here is your **FINAL CLEAN README**
+
+No mistakes. No chat text. No code fences.
+Just **perfect GitHub markdown** 👑
+
+Copy-paste this ENTIRE thing as your README.md 👇
+(Replace EVERYTHING you currently have)
+
+---
+
+## ✨ FINAL README — CLEAN VERSION
+
+````markdown
 # 🩺 Quantum-Enhanced Vision-Language Framework for Medical Diagnosis
 
 A multimodal medical diagnosis system that integrates vision, language, and voice with quantum-inspired learning to support clinicians with transparent diagnostic insights.
@@ -19,6 +56,7 @@ A multimodal medical diagnosis system that integrates vision, language, and voic
 ---
 
 ## 📖 About the Project
+
 Medical imaging is fundamental to healthcare, yet many AI-based diagnostic tools are limited due to:
 
 - Low interpretability (black-box systems)
@@ -41,24 +79,11 @@ The goal is to deliver **transparent, accurate, and clinically useful** diagnost
 
 Uses the MediCase-Multimodal dataset:
 
-- 7,431 real-world imaging cases
-- Modalities: X-Ray, CT, MRI, Ultrasound
-- 53 diseases under 8 categories
-- Includes findings, differential diagnosis, follow-ups, and symptoms
+- 7,431 real-world imaging cases  
+- Modalities: X-Ray, CT, MRI, Ultrasound  
+- 53 diseases under 8 categories  
+- Includes findings, differential diagnosis, follow-ups, and symptoms  
 
----
-
-Super daaa! 😄🔥 Glad it's showing properly now!
-Let’s finish the rest of your README with the **same corrected markdown formatting** — clean, professional, and matching your previous repo style.
-
-Here is the **continuation** from where we stopped 👇
-(Just paste directly below the Dataset section you already added!)
-
----
-
-### 📌 Paste this entire block next 👇
-
-````markdown
 ---
 
 ## ❓ Problem Statement
@@ -82,17 +107,15 @@ To develop an explainable, quantum-enhanced, and multimodal framework capable of
 - Improves stability and diagnostic reliability
 
 ### 3️⃣ Diagnostic Reasoning
-- BioMistral-7B: Adaptive medical question generation
-- Whisper ASR + Piper TTS: Voice-based interaction
+- BioMistral-7B for medical question generation  
+- Whisper ASR + Piper TTS for voice-based interaction  
 
 ### 4️⃣ Reporting
-- LLaVA-Med generates:
-  - Clinician-grade radiology reports  
-  - Patient-friendly summaries  
+- LLaVA-Med produces clinician-grade reports and patient-friendly summaries  
 
 ### 5️⃣ Explainability (XAI)
-- Grad-CAM: Visual heatmaps  
-- SHAP & LIME: Textual reasoning insights  
+- **Grad-CAM** → Visual heatmaps  
+- **SHAP & LIME** → Textual reasoning transparency  
 
 ---
 
@@ -103,24 +126,24 @@ To develop an explainable, quantum-enhanced, and multimodal framework capable of
 | AUROC (Mean) | **0.902** |
 | F1-Weighted | **0.71** |
 | Training Loss | **0.0506** |
-| Quantum Stability — q_scale_mean | **1.07** |
+| q_scale_mean | **1.07** |
 | q_scale_variance | **0.1334** |
 
-✨ Shows strong predictive quality with enhanced interpretability.
+✨ Demonstrates strong diagnostic reliability with enhanced clarity & explainability.
 
 ---
 
 ## 🌐 Website Overview
 
-This UI enables:
+The web UI enables:
 
-✔ Secure medical image upload  
-✔ AI-driven diagnosis results  
-✔ Heatmaps with confidence  
-✔ Voice conversation for anamnesis  
-✔ Modern, accessible design  
+✔ Medical image upload  
+✔ AI-driven diagnosis + heatmaps  
+✔ Confidence scoring  
+✔ Voice interaction for anamnesis  
+✔ Clean and accessible clinical interface  
 
-📸 Screenshots will be added soon!
+📸 Screenshots will be added here soon!
 
 ---
 
@@ -130,8 +153,8 @@ This UI enables:
 |------|------|
 | Front-End | React, TypeScript, Vite |
 | UI | shadcn-ui, Tailwind CSS |
-| Vision-Language AI | BioMedCLIP, BioMistral-7B, LLaVA-Med |
-| Voice Interface | Whisper ASR, Piper TTS |
+| Multimodal AI | BioMedCLIP, BioMistral-7B, LLaVA-Med |
+| Voice | Whisper ASR, Piper TTS |
 | Explainability | Grad-CAM, SHAP, LIME |
 
 ---
@@ -145,7 +168,7 @@ npm install
 npm run dev
 ````
 
-Open in browser:
+Then open in browser:
 
 ```
 http://localhost:5173/
@@ -156,11 +179,51 @@ http://localhost:5173/
 ## 🔭 Future Work
 
 * Large-scale clinical validation
-* EHR integration (hospital workflow)
-* Multilingual support
-* Temporal reasoning for disease progression
-* Cloud deployment for clinical environments
+* EHR integration
+* Multilingual voice support
+* Disease progression analysis
+* Cloud deployment for hospitals
 
 ---
 
+📌 *This project is under active development — more updates coming soon!*
 
+````
+
+---
+
+### 🚀 Final step
+Push updated README:
+
+```bash
+git add README.md
+git commit -m "Fixed README formatting – Final clean version"
+git push
+````
+
+---
+
+### 🎉 Done da!
+
+Now it will:
+
+✔ Render perfectly
+✔ Look professional
+✔ No weird code formatting
+✔ Same layout as your Epileptic repo
+✔ Fully research-accurate
+
+---
+
+Would you like me to now add:
+
+✨ Architecture Diagram
+📸 UI screenshots placement
+🎖️ Badges (Tech stack / MIT License / Stars)
+🧬 Publication Citation block
+
+If yes just send:
+➡️ your UI screenshots
+➡️ a logo/banner if you want one
+
+We’ll make it look like a **top-tier research project repo** 😎🔥
