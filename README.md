@@ -135,7 +135,8 @@ The web UI provides an end-to-end clinical experience enabling:
 - Detailed radiology-style report generation using LLaVA-Med  
 - Patient-friendly summary for easy understanding  
 - XAI visualizations: heatmaps with evidence-based explanation  
-- One-click PDF export for clinical documentation  
+- One-click PDF export for clinical documentation
+
 
 
 ---
