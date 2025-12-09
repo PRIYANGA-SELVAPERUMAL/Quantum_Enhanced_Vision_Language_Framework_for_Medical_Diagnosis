@@ -137,6 +137,15 @@ The web UI provides an end-to-end clinical experience enabling:
 - XAI visualizations: heatmaps with evidence-based explanation  
 - One-click PDF export for clinical documentation
 
+<img width="1897" height="825" alt="image" src="https://github.com/user-attachments/assets/b0404044-0622-45ca-99a9-f34c764af884" />
+<img width="1810" height="783" alt="image" src="https://github.com/user-attachments/assets/173ec7b8-5040-44d9-99ec-8e6b8899a4c5" />
+<img width="1813" height="787" alt="image" src="https://github.com/user-attachments/assets/93933c67-5248-4606-898e-42d3b010b505" />
+<img width="1637" height="765" alt="image" src="https://github.com/user-attachments/assets/f0ee03de-00d1-4419-b367-63957ba7c841" />
+<img width="1638" height="710" alt="image" src="https://github.com/user-attachments/assets/a29cbc13-1f90-4236-8936-d1b1ceb3fab7" />
+
+
+
+
 
 
 ---
