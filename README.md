@@ -48,8 +48,10 @@ Uses the MediCase-Multimodal dataset:
 
 - 7,431 real-world imaging cases  
 - Modalities: X-Ray, CT, MRI, Ultrasound  
-- 53 diseases under 8 categories  
-- Includes findings, differential diagnosis, follow-ups, and symptoms  
+- Covers **53 diseases** grouped into **8 clinical categories**
+- Includes Case Title, History, Diagnosis & findings, Differential reasoning, Treatment plans & follow-ups, and Source reference URLs
+
+🔗 [Dataset Link](https://www.kaggle.com/datasets/ahmedsta/medical-analysis)
 
 ---
 
