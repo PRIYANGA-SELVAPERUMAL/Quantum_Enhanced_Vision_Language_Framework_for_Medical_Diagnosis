@@ -16,11 +16,11 @@ A multimodal medical diagnosis system that integrates vision, language, and voic
 - [Website Overview](#website-overview)
 - [Tech Stack](#tech-stack)
 - [How to Run the Project](#how-to-run-the-project)
-- [Future Work](#future-work)
+- [Future Enhancements](#future-enhancements)
 
 ---
 
-
+<a name="about-the-project"></a>
 ## 📖 About the Project
 
 Medical imaging is fundamental to healthcare, yet many AI-based diagnostic tools are limited due to:
@@ -41,6 +41,7 @@ The goal is to deliver **transparent, accurate, and clinically useful** diagnost
 
 ---
 
+<a name="dataset"></a>
 ## 📊 Dataset
 
 Uses the MediCase-Multimodal dataset:
@@ -52,6 +53,7 @@ Uses the MediCase-Multimodal dataset:
 
 ---
 
+<a name="problem-statement"></a>
 ## ❓ Problem Statement
 
 To develop an explainable, quantum-enhanced, and multimodal framework capable of:
@@ -62,6 +64,7 @@ To develop an explainable, quantum-enhanced, and multimodal framework capable of
 
 ---
 
+<a name="methodology"></a>
 ## 🔍 Methodology
 
 <img width="2056" height="1365" alt="FYP - Workflow Diagram 1" src="https://github.com/user-attachments/assets/9eef1b92-95e7-4f34-902d-8cf60e4d13a7" />
@@ -86,6 +89,8 @@ To develop an explainable, quantum-enhanced, and multimodal framework capable of
 - **SHAP & LIME** → Textual reasoning transparency  
 
 ---
+
+<a name="model-architecture"></a>
 ## 🧠 Model Architecture
 
 <img width="7334" height="2091" alt="FYP drawio" src="https://github.com/user-attachments/assets/bcd833c2-2645-43b5-a2f0-ae77dbf2a89e" />
@@ -99,6 +104,8 @@ To develop an explainable, quantum-enhanced, and multimodal framework capable of
 - **Whisper ASR + Piper TTS** enabling voice interaction  
 - **Explainability Module** (Grad-CAM, SHAP, LIME)
 ---
+
+<a name="model-performance"></a>
 ## 🧪 Model Performance
 
 | Metric | Value | Metric Type |
@@ -122,7 +129,7 @@ To develop an explainable, quantum-enhanced, and multimodal framework capable of
 
 ---
 
-
+<a name="website-overview"></a>
 ## 🌐 Website Overview
 
 The web UI provides an end-to-end clinical experience enabling:
@@ -150,6 +157,7 @@ The web UI provides an end-to-end clinical experience enabling:
 
 ---
 
+<a name="tech-stack"></a>
 ## 🛠 Tech Stack
 
 | Layer | Tools |
@@ -162,6 +170,7 @@ The web UI provides an end-to-end clinical experience enabling:
 
 ---
 
+<a name="how-to-run-the-project"></a>
 ## ⚙️ How to Run the Project
 
 ```sh
@@ -179,7 +188,8 @@ http://localhost:5173/
 
 ---
 
-## 🔭 Future Work
+<a name="future-enhancements"></a>
+## 🔭 Future Enhancements
 
 * Large-scale clinical validation
 * EHR integration
